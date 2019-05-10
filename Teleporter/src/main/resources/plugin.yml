@@ -1,0 +1,8 @@
+name: Teleporter
+main: com.fobcode.tp.Teleporter
+version: 1.0.0
+commands:
+    goto:
+        usage: /<command>
+        desc: Go to a player!
+        aliases: [gotoplayer]
