@@ -1,0 +1,11 @@
+name: Medic
+main: com.focode.medic.Medic
+version: 1.0.0
+desc: A simple medic and healing plugin.
+commands:
+    fullhealth:
+        usage: /<command>
+        desc: Set player health to full
+    fullhunger:
+        usage: /<command>
+        desc: Set player hunger to full

@@ -1,0 +1,12 @@
+name: WorldController
+main: com.fobcode.wc.WorldController
+version: 1.0.0
+commands:
+    settime:
+        usage: /<command>
+        desc: Use it to set the server time
+        aliases: [st]
+    setweather:
+        usage: /<command>
+        desc: Used to set weather of the player's world
+        aliases: [sw]
