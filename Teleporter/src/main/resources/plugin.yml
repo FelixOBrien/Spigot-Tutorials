@@ -6,3 +6,11 @@ commands:
         usage: /<command>
         desc: Go to a player!
         aliases: [gotoplayer]
+    cometo:
+        usage: /<command>
+        desc: Get a player to come to you!
+        aliases: [playertoyou]
+    gorandom:
+        usage: /<command>
+        desc: Go to a random location
+        aliases: [gorand]
